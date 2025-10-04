@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Atul</h1>
+<h1 align="center">👋 Hi, I'm Shivani</h1>
 
 <p align="center">
   🌤️ <b>Front-End Developer</b> | 💻 Passionate Coder | ⚡ Tech Explorer
